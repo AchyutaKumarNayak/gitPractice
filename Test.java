@@ -1,7 +1,7 @@
 class Test{
 	public ststic void main(String[] args){
 		int i=10;
-		String s="Baby";
+		String s="Bubun";
 		System.out.println("Hi");
 	}
 }
